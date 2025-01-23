@@ -24,6 +24,6 @@ Ai Engineer & Game Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/BunyaphonChaimongkolsup"><img src="https://github-readme-stats.vercel.app/api?username=BunyaphonChaimongkolsup&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="BunyaphonChaimongkolsup's GitHub stats" /></a>
+<a href="http://www.github.com/BunyaphonCh"><img src="https://github-readme-stats.vercel.app/api?username=BunyaphonCh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="BunyaphonChaimongkolsup's GitHub stats" /></a>
 
-<a href="https://github.com/BunyaphonChaimongkolsup" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunyaphonChaimongkolsup&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/BunyaphonCh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunyaphonCh&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
